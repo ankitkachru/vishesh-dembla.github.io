@@ -1,0 +1,11 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "Profile"
+    url: https://drive.google.com/open?id=1cNenfowSvZHeQdVKzsI_KnCCUSNuo03ofzE2UK7MBFs
+  - title: "Archives"
+    url: /archives/
+  - title: "GitHub"
+    url: https://www.github.com/vishesh-dembla
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/vishesh-dembla
