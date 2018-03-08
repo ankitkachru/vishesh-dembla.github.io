@@ -24,12 +24,13 @@ github_username:  vishesh-dembla
 
 # Build settings
 markdown: kramdown
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
