@@ -65,7 +65,7 @@ This will start a webserver for your website on the localhost at port 4000. You 
 127.0.0.1:4000/
 ```
 
-![jekyll-with-minima]({{ site.url }}/assets/jekyll_home.PNG){:class="img-responsive"}
+![jekyll-with-minima](/assets/jekyll_home.PNG){:class="img-responsive"}
 
 ***
 ### Understanding the structure of the website
@@ -73,7 +73,7 @@ This will start a webserver for your website on the localhost at port 4000. You 
 Once you have followed the above steps, the directory structure for your website you be something like this:
 
 
-![jekyll-file-structure]({{ site.url }}/assets/file_structure.PNG){:class="img-responsive"}
+![jekyll-file-structure](/assets/file_structure.PNG){:class="img-responsive"}
 
 Here are the general overviews for each of the substructure:
 
