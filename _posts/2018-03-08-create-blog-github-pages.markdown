@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create your website with Github Pages and Jekyll"
-
+author: "Vishesh Dembla"
 tags: jekyll blog firstpost
 categories: jekyll github ghpages 
 date: "2018-03-08"
